@@ -1,0 +1,133 @@
+HTTrack3.49-2 launched on Sat, 22 Nov 2025 18:01:43 at https://www.uxpert.com/ +*.uxpert.com/* +https://uxpert.com/* -ad.doubleclick.net/* -*.jpg -*.jpeg -*.png -*.gif -*.webp
+(httrack https://www.uxpert.com/ -w -r99 -%e99 -s0 -%k -c8 -F "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" +*.uxpert.com/* +https://uxpert.com/* -ad.doubleclick.net/* -*.jpg -*.jpeg -*.png -*.gif -*.webp -O /Users/sait/Desktop/uxpert_full )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:04:20	Error: 	"Forbidden" (403) at link https://www.uxpert.com/xmlrpc.php (from https://www.uxpert.com/)
+18:04:20	Warning: 	Moved Permanently for https://www.uxpert.com/?lang=he
+18:04:20	Warning: 	File has moved from https://www.uxpert.com/?lang=he to /
+18:04:27	Error: 	"Forbidden" (403) at link https://www.uxpert.com/xmlrpc.php?rsd (from https://www.uxpert.com/)
+19:03:16	Error: 	"Not Found" (404) at link https://www.uxpert.com/transparent (from https://www.uxpert.com/)
+19:05:29	Warning: 	Moved Permanently for https://www.uxpert.com/?p=106
+19:05:29	Warning: 	File has moved from https://www.uxpert.com/?p=106 to https://www.uxpert.com/about
+19:10:38	Warning: 	Warning: store application/octet-stream without scan: /Users/sait/Desktop/uxpert_full/www.uxpert.com/wp-content/uploads/2021/07/asaf_.svg
+19:10:38	Warning: 	Warning: store application/octet-stream without scan: /Users/sait/Desktop/uxpert_full/www.uxpert.com/wp-content/uploads/2021/07/liat.svg
+19:10:38	Warning: 	Warning: store application/octet-stream without scan: /Users/sait/Desktop/uxpert_full/www.uxpert.com/wp-content/uploads/2021/07/alona.svg
+19:13:43	Warning: 	Moved Permanently for https://www.uxpert.com/?p=6363
+19:13:43	Warning: 	File has moved from https://www.uxpert.com/?p=6363 to https://www.uxpert.com/blog
+19:13:53	Warning: 	Warning: store application/octet-stream without scan: /Users/sait/Desktop/uxpert_full/www.uxpert.com/wp-content/uploads/2025/07/fly1_.svg
+19:15:05	Warning: 	Moved Permanently for https://www.uxpert.com/?p=108
+19:15:05	Warning: 	File has moved from https://www.uxpert.com/?p=108 to https://www.uxpert.com/join
+19:15:09	Warning: 	Moved Permanently for https://www.uxpert.com/?p=110
+19:15:09	Warning: 	File has moved from https://www.uxpert.com/?p=110 to https://www.uxpert.com/contact
+19:15:09	Warning: 	Moved Permanently for https://www.uxpert.com/?p=7941
+19:15:09	Warning: 	File has moved from https://www.uxpert.com/?p=7941 to https://www.uxpert.com/work/pizza-online?p=7941
+19:15:10	Warning: 	Moved Permanently for https://www.uxpert.com/?p=3192
+19:15:10	Warning: 	File has moved from https://www.uxpert.com/?p=3192 to https://www.uxpert.com/work/b2b/sealights-quality-intelligence
+19:15:10	Warning: 	Moved Permanently for https://www.uxpert.com/?p=4256
+19:15:10	Warning: 	File has moved from https://www.uxpert.com/?p=4256 to https://www.uxpert.com/work/pango
+19:15:10	Warning: 	Moved Permanently for https://www.uxpert.com/?p=8925
+19:15:10	Warning: 	File has moved from https://www.uxpert.com/?p=8925 to https://www.uxpert.com/work/nayax-core?p=8925
+19:15:16	Warning: 	Moved Permanently for https://www.uxpert.com/?p=3993
+19:15:16	Warning: 	File has moved from https://www.uxpert.com/?p=3993 to https://www.uxpert.com/work/apps/isr-app?p=3993
+19:15:17	Warning: 	Moved Permanently for https://www.uxpert.com/?p=6293&lang=he
+19:15:17	Warning: 	File has moved from https://www.uxpert.com/?p=6293&lang=he to https://www.uxpert.com/about?lang=he
+19:15:17	Warning: 	Warning: store application/octet-stream without scan: /Users/sait/Desktop/uxpert_full/www.uxpert.com/wp-content/uploads/2021/07/shani.svg
+19:15:17	Warning: 	Moved Permanently for https://www.uxpert.com/?p=4847
+19:15:17	Warning: 	File has moved from https://www.uxpert.com/?p=4847 to https://www.uxpert.com/work/philharmonic
+19:15:17	Warning: 	Moved Permanently for https://www.uxpert.com/?p=6910
+19:15:17	Warning: 	File has moved from https://www.uxpert.com/?p=6910 to https://www.uxpert.com/work/pension-clearinghouse
+19:15:17	Warning: 	Moved Permanently for https://www.uxpert.com/?p=162
+19:15:17	Warning: 	File has moved from https://www.uxpert.com/?p=162 to https://www.uxpert.com/work/pos/dominos-pos?p=162
+19:15:19	Warning: 	Moved Permanently for https://www.uxpert.com/?p=345
+19:15:19	Warning: 	File has moved from https://www.uxpert.com/?p=345 to https://www.uxpert.com/work/apps/leumi-digital-account
+19:15:19	Warning: 	Moved Permanently for https://www.uxpert.com/?p=2753
+19:15:19	Warning: 	File has moved from https://www.uxpert.com/?p=2753 to https://www.uxpert.com/work/websites/gift-card-order
+19:15:19	Warning: 	Moved Permanently for https://www.uxpert.com/?p=4690
+19:15:19	Warning: 	File has moved from https://www.uxpert.com/?p=4690 to https://www.uxpert.com/work/websites/bestie-price-comparison?p=4690
+19:15:20	Warning: 	Moved Permanently for https://www.uxpert.com/?p=4508
+19:15:20	Warning: 	File has moved from https://www.uxpert.com/?p=4508 to https://www.uxpert.com/work/websites/marpet
+19:15:20	Warning: 	Moved Permanently for https://www.uxpert.com/?p=3175
+19:15:20	Warning: 	File has moved from https://www.uxpert.com/?p=3175 to https://www.uxpert.com/work/b2b/bright-machines?p=3175
+19:15:22	Warning: 	Moved Permanently for https://www.uxpert.com/?p=4576
+19:15:22	Warning: 	File has moved from https://www.uxpert.com/?p=4576 to https://www.uxpert.com/work/apps/rent-service-app
+19:15:22	Warning: 	Moved Permanently for https://www.uxpert.com/?p=4079
+19:15:22	Warning: 	File has moved from https://www.uxpert.com/?p=4079 to https://www.uxpert.com/work/9-insurance
+19:15:22	Warning: 	Moved Permanently for https://www.uxpert.com/?p=3796
+19:15:22	Warning: 	File has moved from https://www.uxpert.com/?p=3796 to https://www.uxpert.com/work/apps/leumit-healthcare-app
+19:15:22	Warning: 	Moved Permanently for https://www.uxpert.com/?p=2851
+19:15:22	Warning: 	File has moved from https://www.uxpert.com/?p=2851 to https://www.uxpert.com/work/isr-rail-ticketing
+19:15:22	Warning: 	Moved Permanently for https://www.uxpert.com/?p=49
+19:15:22	Warning: 	File has moved from https://www.uxpert.com/?p=49 to https://www.uxpert.com/work/websites/idi-order
+19:15:22	Warning: 	Moved Permanently for https://www.uxpert.com/?p=5079
+19:15:22	Warning: 	File has moved from https://www.uxpert.com/?p=5079 to https://www.uxpert.com/work/iaa-birds-app
+19:15:22	Warning: 	Moved Permanently for https://www.uxpert.com/?p=3362
+19:15:22	Warning: 	File has moved from https://www.uxpert.com/?p=3362 to https://www.uxpert.com/work/websites/fibi-marketing-site
+19:15:22	Warning: 	Moved Permanently for https://www.uxpert.com/?p=1675
+19:15:22	Warning: 	File has moved from https://www.uxpert.com/?p=1675 to https://www.uxpert.com/work/videa-algo-trading
+19:15:22	Warning: 	Moved Permanently for https://www.uxpert.com/?p=2058
+19:15:22	Warning: 	File has moved from https://www.uxpert.com/?p=2058 to https://www.uxpert.com/work/websites/idi-insurance-marketing
+19:15:22	Warning: 	Moved Permanently for https://www.uxpert.com/?p=4561
+19:15:22	Warning: 	File has moved from https://www.uxpert.com/?p=4561 to https://www.uxpert.com/work/b2b/automated-assembly-line?p=4561
+19:15:23	Warning: 	Moved Permanently for https://www.uxpert.com/?p=3283
+19:15:23	Warning: 	File has moved from https://www.uxpert.com/?p=3283 to https://www.uxpert.com/work/dominos-pickup-screen
+19:15:23	Warning: 	Moved Permanently for https://www.uxpert.com/?p=847
+19:15:23	Warning: 	File has moved from https://www.uxpert.com/?p=847 to https://www.uxpert.com/work/apps/idi-new-driver
+19:15:23	Warning: 	Moved Permanently for https://www.uxpert.com/?p=4115
+19:15:23	Warning: 	File has moved from https://www.uxpert.com/?p=4115 to https://www.uxpert.com/work/ripples-coffee-printing
+19:15:23	Warning: 	Moved Permanently for https://www.uxpert.com/?p=2623
+19:15:23	Warning: 	File has moved from https://www.uxpert.com/?p=2623 to https://www.uxpert.com/work/pos/fibi-new-atm
+19:15:23	Warning: 	Moved Permanently for https://www.uxpert.com/?p=163
+19:15:23	Warning: 	File has moved from https://www.uxpert.com/?p=163 to https://www.uxpert.com/work/apps/netafim-netmaize
+19:15:23	Warning: 	Moved Permanently for https://www.uxpert.com/?p=1740
+19:15:23	Warning: 	File has moved from https://www.uxpert.com/?p=1740 to https://www.uxpert.com/work/websites/leumi-digital-mortgage
+19:15:23	Warning: 	Moved Permanently for https://www.uxpert.com/?p=3309
+19:15:23	Warning: 	File has moved from https://www.uxpert.com/?p=3309 to https://www.uxpert.com/work/b2b/imperva-counterbreach
+19:15:23	Warning: 	Moved Permanently for https://www.uxpert.com/?p=2164
+19:15:23	Warning: 	File has moved from https://www.uxpert.com/?p=2164 to https://www.uxpert.com/work/apps/security-shift-management
+19:15:23	Warning: 	Moved Permanently for https://www.uxpert.com/?p=5021
+19:15:23	Warning: 	File has moved from https://www.uxpert.com/?p=5021 to https://www.uxpert.com/work/netapp-insight?p=5021
+19:15:25	Warning: 	Moved Permanently for https://www.uxpert.com/?p=7445&lang=he
+19:15:25	Warning: 	File has moved from https://www.uxpert.com/?p=7445&lang=he to https://www.uxpert.com/blog?lang=he
+19:15:25	Warning: 	Moved Permanently for https://www.uxpert.com/?p=9148
+19:15:25	Warning: 	File has moved from https://www.uxpert.com/?p=9148 to https://www.uxpert.com/blog/best-designer
+19:15:25	Error: 	"Not Found" (404) at link https://www.uxpert.com/blog/transparent (from https://www.uxpert.com/blog/best-designer)
+19:15:25	Error: 	"Not Found" (404) at link https://www.uxpert.com/tag/transparent (from https://www.uxpert.com/tag/אפיון)
+19:15:25	Warning: 	Moved Permanently for https://www.uxpert.com/?p=8998
+19:15:25	Warning: 	File has moved from https://www.uxpert.com/?p=8998 to https://www.uxpert.com/blog/winning-portfolio
+19:15:25	Warning: 	Moved Permanently for https://www.uxpert.com/?p=8777
+19:15:25	Warning: 	File has moved from https://www.uxpert.com/?p=8777 to https://www.uxpert.com/blog/change_process
+19:15:25	Warning: 	Moved Permanently for https://www.uxpert.com/?p=8376
+19:15:25	Warning: 	File has moved from https://www.uxpert.com/?p=8376 to https://www.uxpert.com/blog/attention
+19:15:25	Warning: 	Moved Permanently for https://www.uxpert.com/?p=8290
+19:15:25	Warning: 	File has moved from https://www.uxpert.com/?p=8290 to https://www.uxpert.com/blog/flights-table
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=8047
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=8047 to https://www.uxpert.com/blog/multi-parameter-tables
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=7811
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=7811 to https://www.uxpert.com/blog/design-to-dev
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=7673
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=7673 to https://www.uxpert.com/blog/filters-on-complex-systems
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=7490
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=7490 to https://www.uxpert.com/blog/pango
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=7345
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=7345 to https://www.uxpert.com/blog/design-emotions
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=6451
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=6451 to https://www.uxpert.com/blog/dev-design
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=6417
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=6417 to https://www.uxpert.com/blog/research-to-design
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=6415
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=6415 to https://www.uxpert.com/blog/light-dark-mode
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=6413
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=6413 to https://www.uxpert.com/blog/swiftness
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=6294&lang=he
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=6294&lang=he to https://www.uxpert.com/join?lang=he
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=6295&lang=he
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=6295&lang=he to https://www.uxpert.com/contact?lang=he
+19:15:41	Warning: 	Moved Permanently for https://www.uxpert.com/?p=7451&lang=he
+19:15:41	Warning: 	File has moved from https://www.uxpert.com/?p=7451&lang=he to https://www.uxpert.com/work/apps/isr-app?p=7451&lang=he
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 13 minutes 59 seconds : 624 links scanned, 563 files written (7567832712 bytes overall) [7555899507 bytes received at 1702162 bytes/sec], 16272357 bytes transferred using HTTP compression in 447 files, ratio 24%, 8.2 requests per connection
+(5 errors, 117 warnings, 0 messages)

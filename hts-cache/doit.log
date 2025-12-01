@@ -1,0 +1,8 @@
+https://www.uxpert.com/ -w -r99 -%e99 -s0 -%k -c8 -F "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" +*.uxpert.com/* +https://uxpert.com/* -ad.doubleclick.net/* -*.jpg -*.jpeg -*.png -*.gif -*.webp -O /Users/sait/Desktop/uxpert_full
+File generated automatically on Sat, 22 Nov 2025 18:01:43, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
